@@ -1,5 +1,3 @@
-<![endif]-->
-
 # TTY interactiva: ¿Como hacer una terminal interactiva?
 
 Durante una prueba de penetración, tener una TTY interactiva es       crucial porque mejora significativamente la capacidad del pentester      para interactuar con el sistema objetivo. Una TTY interactiva ofrece     un entorno completo de línea de comandos, permitiendo ejecutar una       amplia gama de comandos y scripts, utilizar herramientas interactivas    como editores de texto, y manipular el sistema de manera más       eficiente y efectiva. Esto es especialmente importante cuando se       explotan vulnerabilidades o se realiza un análisis en profundidad del    sistema, ya que una TTY interactiva proporciona una experiencia       similar a la de una sesión local, permitiendo al pentester realizar      acciones complejas, diagnosticar problemas y explorar el sistema de forma mucho más efectiva que con una shell limitada o no interactiva.
@@ -39,7 +37,4 @@ Para obtener una TTY interactiva en una máquina objetivo, puedes seguir los sig
  - **stty rows 24 columns 126**: Ajusta el tamaño de la ventana del terminal para que tenga 24 filas y 126 columnas, lo cual es necesario
    para asegurar que la salida de los comandos se muestre correctamente.
 
-# Apoyo 
-Si te gustaría contribuir con 1 dólar, estaría muy agradecido. Puedes hacerlo aquí:
 
-https://www.paypal.com/paypalme/JoseFloresFuentes
